@@ -18,12 +18,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alcantaraafonso&" alt="alcantaraafonso" /></p>
 
-<img src="https://raw.githubusercontent.com/alcantaraafonso/alcantaraafonso/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=alcantara-afonso" alt="Layout with last medium posts"  />
-</div>
-
-###
